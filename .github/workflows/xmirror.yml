@@ -12,8 +12,8 @@ on:
    
 env:
   # Change these values
-  GitHubMail: "tollerdl.1234@gmail.com"
-  GitHubName: "shakida" 
+  GitHubMail: "ankushverma609@hotmail.com"
+  GitHubName: "ankushverma609" 
   Branch: "master"
 
 jobs:
